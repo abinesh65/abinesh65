@@ -1,109 +1,235 @@
 # Hi there, I'm Abinesh Anbarasan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Science+Graduate;Data+Analyst+%7C+Data+Scientist;Machine+Learning+Enthusiast;Building+Data-Driven+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Engineer;Generative+AI+Enthusiast;Building+AI-Powered+Data+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+LLMs" />
 </p>
+
+---
 
 ## 🚀 About Me
 
-🎓 Bachelor's & Master's Graduate in Data Science
+🎓 Data Science Graduate passionate about solving real-world problems using data and AI.
 
-📊 Passionate about Data Analytics, Machine Learning, and AI
+📊 Experienced in Data Analytics, Business Intelligence, Machine Learning, and Generative AI.
 
-🐍 Skilled in Python, SQL, Data Visualization, and Predictive Modeling
+🤖 Building AI-powered applications using LLMs, RAG pipelines, AI Agents, and NLP techniques.
 
-🌱 Currently sharing my learning journey through **#100DaysOfDataScience**
+📈 Skilled in transforming raw data into actionable insights through dashboards, analytics, and predictive models.
 
-💡 I enjoy transforming raw data into actionable business insights
+☁️ Hands-on experience with cloud technologies, MLOps tools, and end-to-end machine learning workflows.
+
+🌱 Currently exploring:
+- Advanced LLM Applications
+- Multi-Agent AI Systems
+- Retrieval-Augmented Generation (RAG)
+- MLOps & AI Deployment
 
 📍 Chennai, Tamil Nadu, India
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### Programming & Databases
+## 👨‍💻 Programming Languages
+- Python
+- SQL
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## 📊 Data Analytics & Visualization
+- Power BI
+- Tableau
+- Microsoft Excel
+- Matplotlib
+- Seaborn
+- Plotly
 
-### Data Science & Machine Learning
+## 🗄️ Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- ChromaDB
+- Pinecone
+- FAISS
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+## 🤖 Machine Learning
+- Supervised Learning
+- Unsupervised Learning
+- Model Evaluation
+- Hyperparameter Tuning
+- Feature Engineering
+- SHAP Explainability
 
-### Data Visualization
+### Libraries & Frameworks
+- Scikit-Learn
+- XGBoost
+- Pandas
+- NumPy
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+## 🧠 Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- LlamaIndex
+- Prompt Engineering
+- OpenAI API
+- Hugging Face
+- Transformers
+- Fine-Tuning
 
-### Tools
+## 📝 Natural Language Processing
+- BERT
+- LSTM
+- TF-IDF
+- LDA
+- Text Classification
+- Sentiment Analysis
+- Named Entity Recognition (NER)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+## 🤖 AI Agents & Orchestration
+- LangChain Agents
+- Agentic Workflows
+- Multi-Step Reasoning
+- Tool Use
+- Autonomous AI Systems
+
+## ☁️ Cloud & MLOps
+- Streamlit
+- Flask
+- Docker
+- Git
+- GitHub
+- REST APIs
 
 ---
 
-## 📌 Featured Projects
+# 💼 Professional Experience
 
-### 🚍 Redbus Data Scraping & Analytics
-Web scraping using Selenium, SQL storage, and Streamlit dashboard for dynamic data filtering and analysis.
+## AI Product Research Intern
+**Hood** | Remote | Chennai, India
+*May 2026 – Present*
 
-### 📊 DataSpark: Global Electronics Analytics
-Retail analytics project focused on extracting actionable business insights from electronics sales data.
+- Conducting AI product analysis and intelligent user experience evaluation.
+- Performing exploratory data analysis to identify product improvement opportunities.
+- Collaborating on research initiatives involving LLMs and AI-driven product features.
 
-### 🤖 Machine Learning Projects
-Predictive modeling, classification, regression, and exploratory data analysis projects.
+## Data Analyst Intern
+**GUVI Geek Networks, IITM Research Park** | Remote
+*Aug 2024 – Present*
 
-### 📈 Data Analytics Dashboards
-Interactive dashboards built using Power BI, Tableau, and Python visualization libraries.
+- Analyzing educational datasets using Python and SQL.
+- Building Power BI dashboards to track KPIs and learner outcomes.
+- Supporting product decisions through data-driven insights and machine learning.
+
+## Machine Learning Intern
+**Gateway Software Solutions**
+*Aug 2022 – Sep 2022*
+
+- Developed supervised learning models for real-world datasets.
+- Worked on data preprocessing, feature engineering, and model evaluation.
+- Gained hands-on experience with Scikit-Learn, Pandas, and NumPy.
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![Abinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=abinesh65&show_icons=true&theme=tokyonight)
+## 🔐 Cybersecurity Incident Classification
+
+**Tools:** Python, XGBoost, Random Forest, SHAP
+
+- Built classification models using the GUIDE cybersecurity dataset.
+- Addressed class imbalance using SMOTE and stratified sampling.
+- Applied SHAP for model explainability and transparency.
+- Improved incident triage prediction accuracy.
+
+---
+
+## 📊 DataSpark: Global Electronics Insights
+
+**Tools:** SQL, Python, Tableau, Power BI
+
+- Collected and cleaned sales, inventory, and regional datasets.
+- Built interactive dashboards to monitor business performance.
+- Performed trend analysis and KPI tracking.
+- Generated actionable insights for business decision-making.
+
+---
+
+## 🚍 Redbus Data Scraping & Analytics
+
+**Tools:** Python, Selenium, SQL, Streamlit
+
+- Developed automated web scraping pipelines.
+- Stored and managed large-scale transportation datasets.
+- Built interactive dashboards for filtering and route analysis.
+
+---
+
+## 🤖 Generative AI & LLM Projects
+
+- RAG-based Question Answering Systems
+- Document Chat Applications
+- AI Agent Workflows
+- LLM-powered Automation Tools
+- Prompt Engineering Experiments
+
+---
+
+# 📜 Certifications
+
+- Data Science & Analytics Programs
+- Machine Learning with Python
+- Power BI for Data Analytics
+- Generative AI & LLM Applications
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinesh65&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abinesh65&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abinesh65&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-💼 LinkedIn:
+💼 LinkedIn  
 https://www.linkedin.com/in/abinesh-anbarasan-8a8392343
 
-🌍 Portfolio:
+🐙 GitHub  
+https://github.com/abinesh65
+
+🌍 Portfolio  
 https://abinesh-anbarasan.netlify.app
 
-📧 Email:
+📧 Email  
 abi63626@gmail.com
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-✅ Build impactful AI & Data Science projects
+✅ Build production-ready AI applications
 
-✅ Strengthen Machine Learning expertise
+✅ Master LLMs, RAG, and AI Agents
 
-✅ Contribute to Open Source
+✅ Contribute to Open Source AI projects
 
-✅ Grow my professional network
+✅ Strengthen Data Engineering & MLOps skills
 
-✅ Complete #100DaysOfDataScience
+✅ Publish impactful Data Science projects
+
+✅ Secure a Data Scientist / AI Engineer role
 
 ---
 
-⭐ If you like my work, feel free to explore my repositories and connect with me!
+### 📊 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=abinesh65&color=blue)
+
+⭐ Feel free to explore my repositories, connect with me, and collaborate on exciting AI & Data Science projects!
