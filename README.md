@@ -18,29 +18,32 @@
 # 🚀 About Me
 
 ```python
-class Abinesh:
+class AbineshAnbarasan:
 
-    location = "Chennai, Tamil Nadu 🇮🇳"
+    def __init__(self):
+        self.location = "Chennai, Tamil Nadu 🇮🇳"
+        self.role = "Data Analyst | ML Engineer | GenAI Developer"
 
-    role = [
-        "Data Analyst",
-        "Machine Learning Engineer",
-        "Generative AI Developer"
-    ]
+        self.skills = {
+            "Languages": ["Python", "SQL"],
+            "Analytics": ["Power BI", "Tableau", "Excel"],
+            "Machine Learning": ["Scikit-Learn", "XGBoost", "SHAP"],
+            "Generative AI": ["LLMs", "RAG", "LangChain", "LlamaIndex"],
+            "Databases": ["MySQL", "PostgreSQL", "MongoDB"],
+            "Tools": ["Git", "Docker", "Streamlit", "Flask"]
+        }
 
-    skills = [
-        "Python",
-        "SQL",
-        "Power BI",
-        "Tableau",
-        "Machine Learning",
-        "LLMs",
-        "RAG",
-        "LangChain",
-        "AI Agents"
-    ]
+        self.current_focus = [
+            "AI Agents",
+            "RAG Applications",
+            "LLM Workflows",
+            "MLOps"
+        ]
 
-    passion = "Turning data into business impact"
+        self.motto = "Turning Data into Intelligence 🚀"
+
+    def say_hi(self):
+        return "Thanks for visiting my profile!"
 ```
 
 🎓 Data Science Graduate
