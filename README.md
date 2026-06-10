@@ -1,235 +1,272 @@
-# Hi there, I'm Abinesh Anbarasan 👋
+<div align="center">
+
+# 👋 Hey, I'm Abinesh Anbarasan
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=800&lines=Data+Analyst+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Generative+AI+Developer+%F0%9F%9A%80;Building+AI-Powered+Solutions+%F0%9F%92%A1;Python+%7C+SQL+%7C+Power+BI+%7C+LLMs" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Data%20Science-00C2FF?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-00B894?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```python
+class Abinesh:
+
+    location = "Chennai, Tamil Nadu 🇮🇳"
+
+    role = [
+        "Data Analyst",
+        "Machine Learning Engineer",
+        "Generative AI Developer"
+    ]
+
+    skills = [
+        "Python",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "Machine Learning",
+        "LLMs",
+        "RAG",
+        "LangChain",
+        "AI Agents"
+    ]
+
+    passion = "Turning data into business impact"
+```
+
+🎓 Data Science Graduate
+
+📊 Experienced in Analytics, Business Intelligence & Machine Learning
+
+🤖 Building AI applications using LLMs, RAG, LangChain & AI Agents
+
+📈 Passionate about extracting actionable insights from structured & unstructured data
+
+☁️ Exploring MLOps, LLM Fine-Tuning, and Multi-Agent Systems
+
+---
+
+# 💻 Tech Arsenal
+
+## Programming
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb" />
+</p>
+
+## Data Science & ML
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge)
+
+---
+
+# 🤖 Generative AI Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Machine+Learning+Engineer;Generative+AI+Enthusiast;Building+AI-Powered+Data+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+LLMs" />
+
+![LangChain](https://img.shields.io/badge/LangChain-00C853?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B61FF?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD43B?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF9800?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Powered-blue?style=for-the-badge)
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 📊 Data Analytics Stack
 
-🎓 Data Science Graduate passionate about solving real-world problems using data and AI.
+<p align="center">
 
-📊 Experienced in Data Analytics, Business Intelligence, Machine Learning, and Generative AI.
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
-🤖 Building AI-powered applications using LLMs, RAG pipelines, AI Agents, and NLP techniques.
-
-📈 Skilled in transforming raw data into actionable insights through dashboards, analytics, and predictive models.
-
-☁️ Hands-on experience with cloud technologies, MLOps tools, and end-to-end machine learning workflows.
-
-🌱 Currently exploring:
-- Advanced LLM Applications
-- Multi-Agent AI Systems
-- Retrieval-Augmented Generation (RAG)
-- MLOps & AI Deployment
-
-📍 Chennai, Tamil Nadu, India
+</p>
 
 ---
 
-# 🛠️ Technical Skills
+# 🏆 Experience
 
-## 👨‍💻 Programming Languages
-- Python
-- SQL
+### 🤖 AI Product Research Intern
+**Hood**
 
-## 📊 Data Analytics & Visualization
-- Power BI
-- Tableau
-- Microsoft Excel
-- Matplotlib
-- Seaborn
-- Plotly
+- AI Product Analysis
+- User Experience Evaluation
+- LLM Product Research
+- Exploratory Data Analysis
 
-## 🗄️ Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- ChromaDB
-- Pinecone
-- FAISS
+### 📊 Data Analyst Intern
+**GUVI Geek Networks**
 
-## 🤖 Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Model Evaluation
-- Hyperparameter Tuning
-- Feature Engineering
-- SHAP Explainability
+- Python & SQL Analytics
+- Power BI Dashboard Development
+- KPI Monitoring
+- Learner Insights Analysis
 
-### Libraries & Frameworks
-- Scikit-Learn
-- XGBoost
-- Pandas
-- NumPy
-
-## 🧠 Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- LlamaIndex
-- Prompt Engineering
-- OpenAI API
-- Hugging Face
-- Transformers
-- Fine-Tuning
-
-## 📝 Natural Language Processing
-- BERT
-- LSTM
-- TF-IDF
-- LDA
-- Text Classification
-- Sentiment Analysis
-- Named Entity Recognition (NER)
-
-## 🤖 AI Agents & Orchestration
-- LangChain Agents
-- Agentic Workflows
-- Multi-Step Reasoning
-- Tool Use
-- Autonomous AI Systems
-
-## ☁️ Cloud & MLOps
-- Streamlit
-- Flask
-- Docker
-- Git
-- GitHub
-- REST APIs
-
----
-
-# 💼 Professional Experience
-
-## AI Product Research Intern
-**Hood** | Remote | Chennai, India
-*May 2026 – Present*
-
-- Conducting AI product analysis and intelligent user experience evaluation.
-- Performing exploratory data analysis to identify product improvement opportunities.
-- Collaborating on research initiatives involving LLMs and AI-driven product features.
-
-## Data Analyst Intern
-**GUVI Geek Networks, IITM Research Park** | Remote
-*Aug 2024 – Present*
-
-- Analyzing educational datasets using Python and SQL.
-- Building Power BI dashboards to track KPIs and learner outcomes.
-- Supporting product decisions through data-driven insights and machine learning.
-
-## Machine Learning Intern
+### 🧠 Machine Learning Intern
 **Gateway Software Solutions**
-*Aug 2022 – Sep 2022*
 
-- Developed supervised learning models for real-world datasets.
-- Worked on data preprocessing, feature engineering, and model evaluation.
-- Gained hands-on experience with Scikit-Learn, Pandas, and NumPy.
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- Scikit-Learn Workflows
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔐 Cybersecurity Incident Classification
+<table>
+<tr>
 
-**Tools:** Python, XGBoost, Random Forest, SHAP
+<td width="50%">
 
-- Built classification models using the GUIDE cybersecurity dataset.
-- Addressed class imbalance using SMOTE and stratified sampling.
-- Applied SHAP for model explainability and transparency.
-- Improved incident triage prediction accuracy.
+### 🔐 Cybersecurity Incident Classification
 
----
+✅ Random Forest
 
-## 📊 DataSpark: Global Electronics Insights
+✅ XGBoost
 
-**Tools:** SQL, Python, Tableau, Power BI
+✅ SHAP Explainability
 
-- Collected and cleaned sales, inventory, and regional datasets.
-- Built interactive dashboards to monitor business performance.
-- Performed trend analysis and KPI tracking.
-- Generated actionable insights for business decision-making.
+✅ SMOTE Balancing
 
----
+</td>
 
-## 🚍 Redbus Data Scraping & Analytics
+<td width="50%">
 
-**Tools:** Python, Selenium, SQL, Streamlit
+### 📊 DataSpark Global Electronics Analytics
 
-- Developed automated web scraping pipelines.
-- Stored and managed large-scale transportation datasets.
-- Built interactive dashboards for filtering and route analysis.
+✅ SQL Analytics
 
----
+✅ Power BI Dashboards
 
-## 🤖 Generative AI & LLM Projects
+✅ Tableau Reporting
 
-- RAG-based Question Answering Systems
-- Document Chat Applications
-- AI Agent Workflows
-- LLM-powered Automation Tools
-- Prompt Engineering Experiments
+✅ Business Insights
 
----
+</td>
 
-# 📜 Certifications
+</tr>
 
-- Data Science & Analytics Programs
-- Machine Learning with Python
-- Power BI for Data Analytics
-- Generative AI & LLM Applications
+<tr>
 
----
+<td width="50%">
 
-# 📈 GitHub Stats
+### 🚍 Redbus Data Scraping
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abinesh65&show_icons=true&theme=tokyonight)
+✅ Selenium
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abinesh65&layout=compact&theme=tokyonight)
+✅ SQL
 
----
+✅ Streamlit
 
-# 🔥 GitHub Streak
+✅ Data Pipelines
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abinesh65&theme=tokyonight)
+</td>
 
----
+<td width="50%">
 
-# 🌐 Connect With Me
+### 🤖 Generative AI Projects
 
-💼 LinkedIn  
-https://www.linkedin.com/in/abinesh-anbarasan-8a8392343
+✅ RAG Systems
 
-🐙 GitHub  
-https://github.com/abinesh65
+✅ LLM Applications
 
-🌍 Portfolio  
-https://abinesh-anbarasan.netlify.app
+✅ AI Agents
 
-📧 Email  
-abi63626@gmail.com
+✅ Document Chatbots
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🎯 2026 Goals
+# 📈 GitHub Analytics
 
-✅ Build production-ready AI applications
+<div align="center">
 
-✅ Master LLMs, RAG, and AI Agents
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abinesh65&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-✅ Contribute to Open Source AI projects
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinesh65&layout=compact&theme=tokyonight&hide_border=true"/>
 
-✅ Strengthen Data Engineering & MLOps skills
-
-✅ Publish impactful Data Science projects
-
-✅ Secure a Data Scientist / AI Engineer role
+</div>
 
 ---
 
-### 📊 Profile Views
+# 🔥 Contribution Streak
 
-![Visitor Count](https://komarev.com/ghpvc/?username=abinesh65&color=blue)
+<div align="center">
 
-⭐ Feel free to explore my repositories, connect with me, and collaborate on exciting AI & Data Science projects!
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abinesh65&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abinesh-anbarasan-8a8392343">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://abinesh-anbarasan.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox"/>
+</a>
+
+<a href="mailto:abi63626@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced RAG Pipelines
+  - Agentic AI Systems
+  - LLM Fine-Tuning
+  - MLOps
+
+Building:
+  - AI Agents
+  - Production AI Apps
+  - Data Analytics Solutions
+```
+
+---
+
+<div align="center">
+
+### ⭐ Turning Data into Intelligence, One Project at a Time
+
+<img src="https://komarev.com/ghpvc/?username=abinesh65&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
