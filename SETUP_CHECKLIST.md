@@ -25,9 +25,8 @@ Do these in order. Full detail in the companion Setup Guide PDF you already have
 - [ ] After upload, check the Actions tab — it should go green in ~1 minute and create an `output` branch
 - [ ] The snake `<picture>` block in README.md is already wired — it just needs that `output` branch to exist first
 
-## 5. Trophies & Featured Projects (new)
+## 5. Featured Projects (new)
 - [ ] Upload `projects-dark.svg` and `projects-light.svg` to the repo root — README.md is already wired to use them
-- [ ] Trophy bar needs no setup — it's a live badge, just make sure your GitHub profile isn't private
 
 ## 6. Badges
 - [ ] Already in README.md — LinkedIn, Portfolio, Email
