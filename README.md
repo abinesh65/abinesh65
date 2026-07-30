@@ -13,10 +13,6 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=abinesh65&theme=dracula&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="trophies" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abinesh65/abinesh65/main/projects-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abinesh65/abinesh65/main/projects-light.svg">
